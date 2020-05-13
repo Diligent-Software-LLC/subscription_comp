@@ -47,5 +47,7 @@ anonymity also available. Greatly appreciated.}
   # Gem specific runtime dependencies.
   spec.add_runtime_dependency 'subscription_int', '~> 0'
   spec.add_runtime_dependency 'subscription_impl', '~> 1'
+  spec.add_runtime_dependency 'node', '~> 4'
+  spec.add_runtime_dependency 'node_diagram', '~> 0'
 
 end
